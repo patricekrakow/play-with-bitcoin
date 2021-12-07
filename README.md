@@ -8,7 +8,7 @@ Let's Play with Bitcoin in order to learn about it.
 
 Home Work #1: Can You Explain Bitcoin Simply?
 
-[What is Bitcoin?](what-is-bitcoin.txt)
+[What is Bitcoin?](https://raw.githubusercontent.com/patricekrakow/play-with-bitcoin/main/what-is-bitcoin.txt)
 
 ## Resources
 
